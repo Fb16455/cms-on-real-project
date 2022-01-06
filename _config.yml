@@ -1,6 +1,7 @@
 title: Your New Jekyll Site
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
+baseurl: /
 
 aboutPage: true
 
