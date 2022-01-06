@@ -4,12 +4,16 @@
         <a href="{{ site.baseurl }}"> <i class="fa fa-arrow-left"></i> Home</a>
     {% endif %}
 
+    <!-- About button -->
     {% if page.url != "/about/" %}
         {% if site.aboutPage %}
         <a href="{{ site.baseurl }}about"> <i class="fa fa-cog"></i> About </a>
         {% endif %}
     {% endif %}
 
+    <!-- RSS button -->
     <a href="{{ site.baseurl }}/feed.xml"> <i class="fa fa-rss"></i>RSS</a>
+    
+    <!-- Sub button -->
     <a class="cta" href="#"> <i class="fa fa-envelope-o"></i> Subscribe</a>
 </nav>
