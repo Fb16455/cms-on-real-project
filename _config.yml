@@ -13,7 +13,7 @@ paginate: 1 ## Set one article per page.
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'news-brief-1'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
