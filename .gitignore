@@ -2,5 +2,6 @@ _site/
 .sass-cache/
 .DS_Store
 
+# Specific to the bundler
 vendor/
 .bundle/
