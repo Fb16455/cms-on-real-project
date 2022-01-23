@@ -1,5 +1,10 @@
 ---
-title: My Beautiful tree
+title: Eyewitness Is Not Trustful
 date: 2022-01-23T14:06:42.126Z
 ---
-![Just some fruitful tree.](/assets/uploads/1.jpg "Just a fruitful tree")
+```css
+#cookiesMsgBox{
+  background-color: #111;
+  color:#fff;
+}
+```
